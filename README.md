@@ -123,9 +123,9 @@ dense_mat->matVecMult(vec_right, vec_out);
 
 ## Documentation 
 
-Please read [report.pdf](https://github.com/vagifaliyev/Matrix-Solver/blob/master/report.pdf) for details on our code of conduct, and algorthims.
+Please read [report.pdf](https://github.com/Mountiko/LinearSolvers/blob/master/report.pdf) for details on our code of conduct, and algorthims.
 
-Penetration analysis results can be viewed in folder [outputData](https://github.com/vagifaliyev/Matrix-Solver/tree/master/penetration/outputData)
+Penetration analysis results can be viewed in folder [outputData](https://github.com/Mountiko/LinearSolvers/tree/master/penetration/outputData)
 
 
 ## On the next Patch:
@@ -140,4 +140,4 @@ Thanks to the teaching staff for their enthusiastic classes and all the Teaching
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vagifaliyev/Matrix-Solver/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Mountiko/LinearSolvers/blob/master/LICENSE) file for details.
